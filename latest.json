@@ -1,5 +1,5 @@
 {
   "version": "3.0.2",
-  "url": "https://github.com/edgarruiz266-en/actualizaciones/releases/download/3.2.0/UsielPos_update_v3.2.0.zip",
-  "notes": "NO ACTUALIZAR. PRIMERO CONSULTAR AL ADMINISTRADOR SI LA VERSIÓN ESTÁ DISPONIBLE.\n\nNOVEDADES:\n1. Integración para agregar imágenes en el menú.\n2. Integración de recetas en inventarios (ya se pueden inventariar varias cosas y relacionarlas con un producto).\n3. Kardex de cancelaciones.\n4. Facturas disponibles (consulte con su proveedor si quiere activar esta función).\n5. Diseño en tickets mejorado."
+  "url": "https://github.com/edgarruiz266-en/actualizaciones/releases/download/3.3.1/UsielPos_update_v3.3.1.zip",
+  "notes": "NUEVAACTUALIZACION GRANDES CAMBIOS.\n\nNOVEDADES:\n1. INTEGRACION DE CAMBIO DE PAGO EN EL HISTORIAL DEL MESERO.\n2. CORRECCIONES DE BUGS EN CIERRES DE VENTANAS.\n3. INTEGRACION DE API PARA LA APP MOVIL(CONSULTA CON TU PROVEDOR SI ESTA DIISPONIBLE SEGUN TU PAQUETE).\n4.MEJOR EDICION DE MESAS Y SALAS.\n5. BUGS DE INVENTARIOS CORREGIDOS."
 }
